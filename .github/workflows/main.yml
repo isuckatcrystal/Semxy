@@ -1,2 +1,0 @@
-- name: Extract zip file
-  run: unzip PulseTriggerBot.zip
